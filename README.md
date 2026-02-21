@@ -16,16 +16,17 @@ Meu nome é Eduardo Leme, tenho 19 anos, atualmente curso Análise e Desenvolvim
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Java" 
+    title="Java"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+          
 <img 
     align="left" 
     alt="Git" 
