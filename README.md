@@ -2,7 +2,7 @@
 
 **`Analista de Dados | Desenvolvedor FullStack`**
 
-Meu nome é Eduardo Leme, tenho 19 anos, atualmente curso Análise e Desenvolvimento de Sistemas, venho me aprofundando na área de dados, utilizando linguagens como Python com biblioteca Pandas, SQL, Java e HTML.
+Meu nome é Eduardo Leme, tenho 19 anos, atualmente curso Análise e Desenvolvimento de Sistemas, venho me aprofundando na área de dados, utilizando Python com biblioteca Pandas, SQL, Excel e Power BI, para análise de métricas, gráficos, criação de dashboards, KPIs e tratamento de dados.
 
 ---
 
